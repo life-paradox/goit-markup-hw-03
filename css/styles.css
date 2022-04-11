@@ -259,7 +259,7 @@ p{
     overflow:hidden;
 }
 
-.features-section{
+.features-section.section{
     padding-bottom: 0;
 }
 
@@ -361,7 +361,7 @@ p{
 
 /* Footer */
 
-.page-footer .container{
+.page-footer{
     padding-top: 60px;
     padding-bottom: 60px;
 
